@@ -1,6 +1,6 @@
 <?php
 
-use drmonkeyninja\Average;
+use devops228\Average;
 use PHPUnit\Framework\TestCase;
 
 class AverageTest extends TestCase

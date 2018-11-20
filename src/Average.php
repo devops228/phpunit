@@ -1,6 +1,6 @@
 <?php
 
-namespace drmonkeyninja;
+namespace devops228;
 
 class Average
 {
