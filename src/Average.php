@@ -9,9 +9,13 @@ class Average
      * @param array $numbers Array of numbers
      * @return float Mean average
      */
+    public function __construct(){
+     echo "wow its running.";
+    }
     public function mean(array $numbers)
     {
         return array_sum($numbers) / count($numbers);
+        
     }
 
     /**
